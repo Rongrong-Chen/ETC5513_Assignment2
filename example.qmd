@@ -3,17 +3,20 @@ title: "Example"
 format: html
 editor: visual
 ---
+
 ## Hello Quarto
 
-This is a test file.
-## This is testbranch edit
+This is a test file. \## This is testbranch edit
 
-Added in testbranch.
-## This is main edit
+Added in testbranch. \## This is main edit
 
 Conflict with testbranch.
 
----
+## Branch Version
+
+This line is from testbranch.
+
+------------------------------------------------------------------------
 
 ## Quarto
 
