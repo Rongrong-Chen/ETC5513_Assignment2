@@ -9,6 +9,9 @@ This is a test file.
 ## This is testbranch edit
 
 Added in testbranch.
+## This is main edit
+
+Conflict with testbranch.
 
 ---
 
